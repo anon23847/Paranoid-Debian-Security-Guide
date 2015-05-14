@@ -1,0 +1,74 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.2}{BIOS-Passwords}{}% 2
+\BOOKMARK [1][-]{section.3}{Encryption}{}% 3
+\BOOKMARK [2][-]{subsection.3.1}{Making TrueCrypt Portable}{section.3}% 4
+\BOOKMARK [2][-]{subsection.3.2}{Hardware Encryption}{section.3}% 5
+\BOOKMARK [2][-]{subsection.3.3}{Attacks on Full-Disk-Encryption}{section.3}% 6
+\BOOKMARK [2][-]{subsection.3.4}{Attacks on encrypted Containers}{section.3}% 7
+\BOOKMARK [2][-]{subsection.3.5}{Debian's encrypted LVM pwned}{section.3}% 8
+\BOOKMARK [2][-]{subsection.3.6}{Solutions}{section.3}% 9
+\BOOKMARK [2][-]{subsection.3.7}{eCryptfs}{section.3}% 10
+\BOOKMARK [2][-]{subsection.3.8}{Encrypting swap using ecryptfs}{section.3}% 11
+\BOOKMARK [2][-]{subsection.3.9}{Tomb}{section.3}% 12
+\BOOKMARK [2][-]{subsection.3.10}{Advanced Tomb-Sorcery}{section.3}% 13
+\BOOKMARK [1][-]{section.4}{Keyloggers}{}% 14
+\BOOKMARK [2][-]{subsection.4.1}{Software Keyloggers}{section.4}% 15
+\BOOKMARK [2][-]{subsection.4.2}{Defense against Software Keyloggers}{section.4}% 16
+\BOOKMARK [2][-]{subsection.4.3}{Hardware Keyloggers}{section.4}% 17
+\BOOKMARK [2][-]{subsection.4.4}{Defense against Hardware Keyloggers}{section.4}% 18
+\BOOKMARK [1][-]{section.5}{Secure File-Deletion}{}% 19
+\BOOKMARK [2][-]{subsection.5.1}{BleachBit}{section.5}% 20
+\BOOKMARK [2][-]{subsection.5.2}{srm \(secure remove\)}{section.5}% 21
+\BOOKMARK [2][-]{subsection.5.3}{Other ways to securely wipe drives}{section.5}% 22
+\BOOKMARK [1][-]{section.6}{Your Internet-Connection}{}% 23
+\BOOKMARK [2][-]{subsection.6.1}{ipkungfu \(basic configuration\)}{section.6}% 24
+\BOOKMARK [2][-]{subsection.6.2}{Configuring /etc/sysctl.conf}{section.6}% 25
+\BOOKMARK [2][-]{subsection.6.3}{Modem \046 Router}{section.6}% 26
+\BOOKMARK [1][-]{section.7}{Intrusion-Detection, Rootkit-Protection \046 AntiVirus}{}% 27
+\BOOKMARK [2][-]{subsection.7.1}{snort \(basic configuration\)}{section.7}% 28
+\BOOKMARK [2][-]{subsection.7.2}{RKHunter}{section.7}% 29
+\BOOKMARK [2][-]{subsection.7.3}{RKHunter-Jedi-Tricks}{section.7}% 30
+\BOOKMARK [2][-]{subsection.7.4}{chkrootkit}{section.7}% 31
+\BOOKMARK [2][-]{subsection.7.5}{tiger}{section.7}% 32
+\BOOKMARK [2][-]{subsection.7.6}{Lynis}{section.7}% 33
+\BOOKMARK [2][-]{subsection.7.7}{debsums}{section.7}% 34
+\BOOKMARK [2][-]{subsection.7.8}{sha256}{section.7}% 35
+\BOOKMARK [2][-]{subsection.7.9}{ClamAV}{section.7}% 36
+\BOOKMARK [1][-]{section.8}{DNS-Servers}{}% 37
+\BOOKMARK [2][-]{subsection.8.1}{Using secure and censor-free DNS}{section.8}% 38
+\BOOKMARK [2][-]{subsection.8.2}{DNScrypt}{section.8}% 39
+\BOOKMARK [1][-]{section.9}{Firefox/Iceweasel}{}% 40
+\BOOKMARK [2][-]{subsection.9.1}{Firefox-Sandbox: Sandfox}{section.9}% 41
+\BOOKMARK [2][-]{subsection.9.2}{Firefox-Preferences}{section.9}% 42
+\BOOKMARK [2][-]{subsection.9.3}{Plugins}{section.9}% 43
+\BOOKMARK [2][-]{subsection.9.4}{Addons}{section.9}% 44
+\BOOKMARK [2][-]{subsection.9.5}{SSL-Search Engines}{section.9}% 45
+\BOOKMARK [2][-]{subsection.9.6}{Flash-Settings}{section.9}% 46
+\BOOKMARK [2][-]{subsection.9.7}{about:config}{section.9}% 47
+\BOOKMARK [2][-]{subsection.9.8}{Prevent Browser Fingerprinting \(still in about:config\)}{section.9}% 48
+\BOOKMARK [1][-]{section.10}{TOR \(The Onion Router\)}{}% 49
+\BOOKMARK [2][-]{subsection.10.1}{TOR-Warning}{section.10}% 50
+\BOOKMARK [1][-]{section.11}{I2P}{}% 51
+\BOOKMARK [1][-]{section.12}{Freenet}{}% 52
+\BOOKMARK [1][-]{section.13}{Secure Peer-to-Peer-Networks}{}% 53
+\BOOKMARK [1][-]{section.14}{Mesh-Networks}{}% 54
+\BOOKMARK [1][-]{section.15}{Proxies}{}% 55
+\BOOKMARK [1][-]{section.16}{VPN \(Virtual Private Network\)}{}% 56
+\BOOKMARK [1][-]{section.17}{The Web}{}% 57
+\BOOKMARK [2][-]{subsection.17.1}{RSS-Feeds}{section.17}% 58
+\BOOKMARK [1][-]{section.18}{Secure Mail-Providers:}{}% 59
+\BOOKMARK [1][-]{section.19}{Disposable Mail-Addresses}{}% 60
+\BOOKMARK [1][-]{section.20}{Secure Instant-Messaging/VoIP}{}% 61
+\BOOKMARK [2][-]{subsection.20.1}{TorChat}{section.20}% 62
+\BOOKMARK [2][-]{subsection.20.2}{OTR \(Off-the-Record Messaging\)}{section.20}% 63
+\BOOKMARK [2][-]{subsection.20.3}{Secure and Encrypted VoIP}{section.20}% 64
+\BOOKMARK [1][-]{section.21}{Social Networking}{}% 65
+\BOOKMARK [2][-]{subsection.21.1}{Facebook}{section.21}% 66
+\BOOKMARK [2][-]{subsection.21.2}{Alternatives to Facebook}{section.21}% 67
+\BOOKMARK [1][-]{section.22}{Passwords}{}% 68
+\BOOKMARK [2][-]{subsection.22.1}{pwgen}{section.22}% 69
+\BOOKMARK [2][-]{subsection.22.2}{KeePass}{section.22}% 70
+\BOOKMARK [2][-]{subsection.22.3}{Live-CDs and VM-Images that focus on security and anonymity}{section.22}% 71
+\BOOKMARK [1][-]{section.23}{Further Info/Tools:}{}% 72
+\BOOKMARK [2][-]{subsection.23.1}{German only:}{section.23}% 73
+\BOOKMARK [2][-]{subsection.23.2}{Postscript:}{section.23}% 74
